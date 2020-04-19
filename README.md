@@ -1,2 +1,2 @@
 # Antenna
-433 MHz antennas
+Low power 433 MHz antennas
